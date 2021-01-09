@@ -1,2 +1,2 @@
 site link: https://shafayetb.github.io/Tinyone/
-# Tynone_PSD-to-Bootstrap
+# Tinyone_PSD-to-Bootstrap
